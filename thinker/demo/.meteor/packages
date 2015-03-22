@@ -1,14 +1,13 @@
 # Meteor packages used by this project, one per line.
-# Check this file (and the other files in this directory) into your repository.
 #
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
-meteor-platform
 autopublish
 insecure
-http
-less
-nemo64:bootstrap
+standard-app-packages
+coffeescript
+stylus
 mizzao:sharejs-ace
-iron:router
+mizzao:sharejs-codemirror
+twbs:bootstrap

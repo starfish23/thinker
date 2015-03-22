@@ -1,9 +1,11 @@
-  <head>
+ 
+<template name="home"> 
+ <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-<!--    <link rel="shortcut icon" href="bootstrap/assets/ico/favicon.png">
+  <link rel="shortcut icon" href="bootstrap/assets/ico/favicon.png">
 
     <title>Thinker</title>
 
@@ -14,8 +16,7 @@
     <link href="client/thinker.css" rel="stylesheet">
 
   </head>
-
-  <body>
+ <body>
 
     <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
@@ -27,13 +28,14 @@
           </button>
           <a class="navbar-brand" href= "#" >Thinker</a>
         </div>
+		
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href=" thinker.html">Home</a></li>
+            <li class="active"><a href="{{pathFor 'home'}} ">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+              <a href="#" class=" dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="playground/index.html">Playground</a></li>
                 <li><a href="#">Another action</a></li>
@@ -73,12 +75,12 @@
         <div class="col-lg-4">
           <h2>Think.</h2>
           <p>Dream up your very own adventures and program them in our online editor. You can even collaborate with your friends or view existing games to gain inspiration.</p>
-          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="/playground">View details &raquo;</a></p>
         </div>
         <div class="col-lg-4">
           <h2>Create.</h2>
           <p>Assemble your creative ideas in our online editor and compile your final product into a story file.</p>
-          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="/doc ">View details &raquo;</a></p>
        </div>
         <div class="col-lg-4">
           <h2>Share.</h2>
@@ -102,3 +104,5 @@
     <script src="bootstrap/assets/js/jquery.js"></script>
     <script src="bootstrap/dist/js/bootstrap.min.js"></script>
   </body>
+ 
+</template>
