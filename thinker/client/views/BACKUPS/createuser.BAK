@@ -1,0 +1,68 @@
+<head>
+<title>Account Creation</title>
+</head>
+
+
+
+
+<template name="createuser">
+
+
+
+
+
+<form id="register-form" action="action">
+      <div>
+      New Email: <input type="email" id="account-email" />
+      New Password:  <input type="password" id="account-password" />
+       <input type="submit" id="create-account" value="Create Account" />
+     </div>
+   </form>
+
+
+
+
+
+
+
+<script>
+Template.register.events({
+    'submit #register-form' : function(e, t) {
+      e.preventDefault();
+      var email = t.find('#account-email').value
+        , password = t.find('#account-password').value;
+
+        // Trim and validate the input
+
+      Accounts.createUser({email: email, password : password}, function(err){
+          if (err) {
+                alert("Login failed!");
+
+          } else {
+               alert("LOGIN SUCCESSFUL!");
+
+          }
+
+        });
+
+      return false;
+    }
+  });
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</template>

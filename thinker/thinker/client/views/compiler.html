@@ -1,0 +1,27 @@
+
+<template name="compiler">
+{{>docListss}}
+
+</template>
+
+
+<template name="docListss">
+    <h3>Pick a document...</h3>
+    <ul class="nav nav-pills nav-stacked" id="list">
+    {{#each documents}}
+    {{> docItem}}
+    {{/each}}
+    </ul>
+    <button class="btn btn-warning">Compile</button>
+</template>
+
+
+
+
+
+
+<template name="docItemss">
+    <li class="{{#if current}}active{{/if}}">
+         <a href="#">{{title}}</a>
+    </li>
+</template>

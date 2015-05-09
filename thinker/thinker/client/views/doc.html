@@ -1,0 +1,131 @@
+<template name="textmain">
+<body>  
+    {{> main}}
+    {{> modals}}
+</body>
+</template>
+
+<template name="modals">
+<div id="revokedModal" class="modal hide fade">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h3>Document closed</h3>
+    </div>
+
+    <div class="modal-body">
+      <p>
+        The invitation for this document was withdrawn. You may wanna contact the owner.
+      </p>
+    </div>
+</div>
+</template>
+
+
+
+<template name="main">
+    <div class="container full-height">
+        <div class="row upper">
+            <div class="col-xs-3 full-height">
+                
+                {{> docList}}
+                
+            </div>
+            <div class="col-xs-9 editor-container full-height">
+                {{>users}}
+                {{> editor}}
+            </div>
+        </div>
+        
+    </div>
+        
+    
+</template>
+
+<template name="docList">
+    <h3>Your Stories</h3>
+    <ul class="nav nav-pills nav-stacked" id="list">
+    {{#each documents}}
+    {{> docItem}}
+    {{/each}}
+    </ul>
+    <h3>Create A New Story</h3>
+    <button class="btn btn-success">New Story</button>
+</template>
+
+<template name="docItem">
+    <li class="{{#if current}}active{{/if}}">
+         <a href="#">{{title}}</a>
+    </li>
+</template>
+
+<template name="editor">
+    {{#with docid}}
+        {{> docTitle this}}
+                {{> sharejsCM docid=this onRender=configCM id="editor"}}
+    {{/with}}
+</template>
+
+<template name="docTitle">
+     <div class="navbar navbar-default">
+        <form class="navbar-form pull-left">
+            <input id="documentName" class="input-xlarge" type="text" value="{{title}}">
+                <button class="btn btn-danger btn-small delete">Delete</button>
+                <button class="btn btn-success btn-small save">Save</button>
+        </form>
+    </div>
+</template>
+
+
+
+<template name="users">
+    {{#if isOwner}}
+        {{> invites}}
+    {{/if}}
+    {{#if owner}}
+        {{> collab}}
+    {{/if}}
+</template>
+
+<template name="invites">
+    <form id="invite-form">
+        <div id="inviteControls" class="btn-group" data-toggle="buttons-radio">
+            <button class="btn btn-info btn-small" id="invite" data-value="send">Send Invite</button>
+            <button class="btn btn-primary btn-small" id="revokeInvite" data-value="revoke">Revoke Invite</button>
+            <button class="btn btn-primary btn-small" id="resetInvite" data-value="reset">Reset</button>
+        </div>
+        <select id="members-to-invite-select" multiple="multiple" data-selected-text-format="count" title="Pick Members">
+          {{#each members}}
+                <option>{{this}}</option>
+          {{/each}}
+        </select>
+        <button id="confirmInvite">Confirm</button>
+    </form>
+
+    <div id="invitesModal" class="modal hide fade">
+        <div class="modal">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h3>{{status}}</h3>
+        </div>
+  
+        <div class="modal-body">
+          <ul>
+          {{#each affectedMembers}}
+                <li>{{this}}</li>
+          {{/each}}
+          </ul>
+        </div>
+    </div>
+</template>
+
+<template name="collab">
+    <div id="collab-users">
+        <h4><bold>Collaborators</bold></h4>
+        <ul class="unstyled">
+            <li><i class="fa fa-user"></i> {{owner}}</li>
+            {{#each invited}}
+                <li><i class="fa fa-users"></i> {{this}}</li>
+            {{/each}}
+        </ul>
+    </div>
+</template>
+

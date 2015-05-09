@@ -1,0 +1,404 @@
+Inform 6.31 for Linux (10th Feb 2006)
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> \
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> \"Glass\
+line 1: Error:  Expected directive, '[' or class name but found Glass
+> \"Glass\"
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The story genre is \
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The story genre is \"Fairy Tale\
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The story genre is \"Fairy Tale\". The story headline is \
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The story genre is \"Fairy Tale\". The story headline is \"A fractur  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The story genre is \"Fairy Tale\". The story headline is \"A fractur  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Features a variety of additional verbs, non-player characters with a  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Too much text for one pair of quotations '...' to hold
+> Any pair of ideas can have some specific dialogue associated with it  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Any pair of ideas can have some specific dialogue associated with it  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Any pair of ideas can have some specific dialogue associated with it  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The player is allowed to try to move from any subject to any other,   ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The player is allowed to try to move from any subject to any other,   ...etc
+line 1: Error:  Too much text for one pair of quotations '...' to hold
+> Non-player characters are also trying to reach specific conversation  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> A subject is a kind of thing. The current subject is a thing that va  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> A subject is a kind of thing. The current subject is a thing that va  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Fatal error: Too many errors: giving up
+Inform 6.31 for Linux (10th Feb 2006)
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> \
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> \"Glass\
+line 1: Error:  Expected directive, '[' or class name but found Glass
+> \"Glass\"
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The story genre is \
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The story genre is \"Fairy Tale\
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The story genre is \"Fairy Tale\". The story headline is \
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The story genre is \"Fairy Tale\". The story headline is \"A fractur  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The story genre is \"Fairy Tale\". The story headline is \"A fractur  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Features a variety of additional verbs, non-player characters with a  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Release along with a solution, source text, a website, an interprete  ...etc
+line 1: Error:  Too much text for one pair of quotations '...' to hold
+> Any pair of ideas can have some specific dialogue associated with it  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Any pair of ideas can have some specific dialogue associated with it  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Any pair of ideas can have some specific dialogue associated with it  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The player is allowed to try to move from any subject to any other,   ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The player is allowed to try to move from any subject to any other,   ...etc
+line 1: Error:  Too much text for one pair of quotations '...' to hold
+> Non-player characters are also trying to reach specific conversation  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> A subject is a kind of thing. The current subject is a thing that va  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> A subject is a kind of thing. The current subject is a thing that va  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> The king's health is a subject. Understand \"father's\" or \"father\  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Expected empty rest of line after '\' in string but found """
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Error:  Illegal character found in source: (ISO Latin1) $5c, i.e., '\'
+> Understand \"glass\" or \"slipper\" or \"glassy\" or \"glinting\" or  ...etc
+line 1: Fatal error: Too many errors: giving up

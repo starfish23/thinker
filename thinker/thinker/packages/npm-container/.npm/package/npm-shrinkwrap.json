@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "exec": {
+      "version": "0.2.0"
+    },
+    "sys": {
+      "version": "0.0.1"
+    }
+  }
+}

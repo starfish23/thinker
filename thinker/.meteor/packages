@@ -5,10 +5,14 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
-insecure
-http
-less
-nemo64:bootstrap
-mizzao:sharejs-ace
+accounts-password
+accounts-ui
 iron:router
+mizzao:sharejs
+mizzao:sharejs-ace
+coffeescript
+mizzao:sharejs-codemirror
+mizzao:build-fetcher
+natestrauser:font-awesome
+sacha:spin
+mrt:accounts-ui-bootstrap-dropdown

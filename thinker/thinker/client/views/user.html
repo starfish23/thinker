@@ -1,0 +1,8 @@
+<template name="user">
+
+{{#if currentUser}}
+	{{> userprofile}}
+{{else}}
+	{{> get_started}}
+{{/if}}
+</template>
